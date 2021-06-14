@@ -1,0 +1,7 @@
+.idea/
+data/
+labelImg-master/
+object_detection/
+models/*/*.data-00000-of-00001
+models/*/*.index
+models/*/train/
